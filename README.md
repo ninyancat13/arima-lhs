@@ -1,5 +1,5 @@
 # arima-lsd
-Replication of a study by Kandanamond (2013) using factorial design and Latin Square Design. 
+Replication of a study by Kandanamond (2013) using factorial design and Latin Hypercube Sample.
 
 Two simulations were conducted under the ARIMA model: ARMA (stationary) and the IMA (non-stationary). In the literature by Kandanamond (2013), once the dataset for both ARMA and IMA are obtained, the SVM and ANN methods along with the other AR and MA settings are applied to obtain the MAPEs (Mean Absolute Percentage Error).
 
